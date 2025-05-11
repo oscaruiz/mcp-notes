@@ -4,8 +4,7 @@ This is a personal project where I experiment with creating a Model Context Prot
 
 It's based on the course:  
 **"¡Aprende MCP! Para principiantes + Crear nuestro primer MCP DESDE CERO" by Midudev**  
-🔗 [YouTube Course]([https://www.youtube.com/watch?v=YOUR_LINK_HERE](https://www.youtube.com/watch?v=wnHczxwukYY&ab_channel=midudev)) *(← replace with actual URL if available)*
-
+🔗 [YouTube Course]([https://www.youtube.com/watch?v=YOUR_LINK_HERE](https://www.youtube.com/watch?v=wnHczxwukYY&ab_channel=midudev))
 The goal is to test MCP development locally using tools like Claude, and potentially use this repository in the future to store additional MCP server configurations or custom tools.
 
 ## Features

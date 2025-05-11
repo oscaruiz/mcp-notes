@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "node",
+      "args": [
+        "C:/Users/orf desktop/Dev/mcp/node_modules/tsx/dist/cli.mjs",
+        "Z:/Dev/Projects/mcp-notes/src/main.ts"
+      ]
+    }
+  }
+}
